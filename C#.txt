@@ -1,0 +1,35 @@
+Task1(ilk ders)   
+        
+        string name1 = "Tekdir";
+        string name2 = "Cutdur";
+            int number = 10;
+            if (number % 2 == 1)
+            {
+                Console.WriteLine("Tekdir");
+
+            }
+            else
+            {
+                Console.WriteLine("Cutdur");
+            
+            }
+
+Task2 
+
+            int number1 = 18;
+            int number2 = 16;
+            if (number1 < number2 )
+            {
+                Console.WriteLine("Bele sey mumkun deyil");
+            }
+            else if (number1>number2)
+            {
+                Console.WriteLine("18 ededi 16-dan boyukdur");
+            }
+            else
+            {
+                Console.WriteLine("Beraberdirler");
+            }
+
+Muellim,men burda oz yazdigimnan baslayib kopyalayib atmisam,
+yeni kompun qoydugu kodlari atmamisam.
