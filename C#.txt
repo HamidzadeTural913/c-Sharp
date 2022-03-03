@@ -5,12 +5,12 @@ Task1(ilk ders)
             int number = 10;
             if (number % 2 == 1)
             {
-                Console.WriteLine("Tekdir");
+                Console.WriteLine(name1);
 
             }
             else
             {
-                Console.WriteLine("Cutdur");
+                Console.WriteLine(name2);
             
             }
 
