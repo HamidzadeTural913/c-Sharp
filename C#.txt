@@ -16,15 +16,15 @@ Task1(ilk ders)
 
 Task2 
 
-            int number1 = 18;
-            int number2 = 16;
-            if (number1 < number2 )
+            int number1 = Convert.ToInt32(Console.ReadLine()); 
+            int number2 = Convert.ToInt32(Console.ReadLine()); 
+            if (number1 > number2 )
             {
-                Console.WriteLine("Bele sey mumkun deyil");
+                Console.WriteLine("number 1, number 2 den boyukdur");
             }
-            else if (number1>number2)
+            else if (number2 > number1)
             {
-                Console.WriteLine("18 ededi 16-dan boyukdur");
+                Console.WriteLine("number 2, number 1 den boyukdur");
             }
             else
             {
